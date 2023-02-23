@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/28 20:57:33.000.193,=C:\Users\Yago\Desktop\Delphi projetos\Unit1.pas</Transaction>
+    <Transaction>2022/11/28 22:04:51.000.127,C:\Users\Yago\Desktop\Delphi projetos\Unit1.dfm=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit1.dfm</Transaction>
+    <Transaction>2022/11/28 22:04:51.000.126,C:\Users\Yago\Desktop\Delphi projetos\Unit1.pas=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 10:43:31.000.107,C:\Users\Yago\Desktop\Delphi projetos\Project2.dproj=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Project2.dproj</Transaction>
+    <Transaction>2022/11/29 19:02:35.000.890,C:\Users\Yago\Desktop\Delphi projetos\Holerite\Project2.dproj=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Project2.dproj</Transaction>
+    <Transaction>2022/11/29 19:35:29.000.350,C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit1.dfm=C:\Users\Yago\Desktop\Delphi projetos\Holerite\holerite 1\Unit1.dfm</Transaction>
+    <Transaction>2022/11/29 19:35:29.000.350,C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit1.pas=C:\Users\Yago\Desktop\Delphi projetos\Holerite\holerite 1\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 19:35:43.000.673,C:\Users\Yago\Desktop\Delphi projetos\Holerite\holerite 1\Unit1.dfm=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit1.dfm</Transaction>
+    <Transaction>2022/11/29 19:35:43.000.673,C:\Users\Yago\Desktop\Delphi projetos\Holerite\holerite 1\Unit1.pas=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit1.pas</Transaction>
+    <Transaction>2022/11/29 19:35:52.000.893,C:\Users\Yago\Desktop\Delphi projetos\Holerite\Project2.dproj=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Project2.dproj</Transaction>
+    <Transaction>2023/02/03 22:20:16.000.321,=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit2.pas</Transaction>
+    <Transaction>2023/02/03 23:09:54.000.964,C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit2.pas=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit_Form_Folha.pas</Transaction>
+    <Transaction>2023/02/03 23:09:54.000.964,C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit2.dfm=C:\Users\Yago\Desktop\Delphi projetos\Holerite\Unit_Form_Folha.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
